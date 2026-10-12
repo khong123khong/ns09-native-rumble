@@ -1,0 +1,6 @@
+id=ns09_rumble_bridge
+name=NS09 Native Rumble - Xbox 360 Edition
+version=1.0.0
+versionCode=10000
+author=NS09 local project
+description=Xbox360-compatible virtual gamepad045E:028E with native dual-rumble to NS09 Bluetooth045E:02E0. Automatic boot/hotplug, safe input recovery. Native backend accepted on Android16/SukiSU.

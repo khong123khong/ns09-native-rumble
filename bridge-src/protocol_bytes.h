@@ -1,0 +1,4 @@
+#ifndef NS09_PROTOCOL_BYTES_H
+#define NS09_PROTOCOL_BYTES_H
+static const unsigned char NS09_STOP_REPORT[9] = {0x03, 0x0F, 0x00, 0x00, 0x00, 0x00, 0xFF, 0x00, 0xEB};
+#endif

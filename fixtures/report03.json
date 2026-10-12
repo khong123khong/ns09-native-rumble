@@ -1,0 +1,25 @@
+{
+  "ReportId": 3,
+  "LogicalMagnitudeMax": 100,
+  "ReportOffsetLeftIncludingId": 4,
+  "ReportOffsetRightIncludingId": 5,
+  "FullRangePhysicalCalibrationVerified": false,
+  "Fixtures": [
+    {
+      "Mode": "Left",
+      "ReportHex": "03 0F 00 00 1D 00 FF 00 EB"
+    },
+    {
+      "Mode": "Right",
+      "ReportHex": "03 0F 00 00 00 1D FF 00 EB"
+    },
+    {
+      "Mode": "Both",
+      "ReportHex": "03 0F 00 00 1D 1D FF 00 EB"
+    },
+    {
+      "Mode": "Stop",
+      "ReportHex": "03 0F 00 00 00 00 FF 00 EB"
+    }
+  ]
+}
